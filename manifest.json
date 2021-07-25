@@ -4,8 +4,8 @@
   "theme_color": "#3315dd",
   "background_color": "#b80738",
   "display": "standalone",
-  "Scope": "/index.html",
-  "start_url": "/",
+  "Scope": "https://jramil.github.io/pwahtml/index.html",
+  "start_url": "https://jramil.github.io/pwahtml/index.html",
   "icons": [
     {
       "src": "https://jramil.github.io/pwahtml/images/icons/icon-72x72.png",
