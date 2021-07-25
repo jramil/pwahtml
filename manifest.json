@@ -1,8 +1,8 @@
 {
   "name": "FuturaNetWorks",
   "short_name": "FNW",
-  "theme_color": "#ff0000",
-  "background_color": "#ff0000",
+  "theme_color": "#3315dd",
+  "background_color": "#b80738",
   "display": "standalone",
   "Scope": "/index.html",
   "start_url": "/",
@@ -48,5 +48,6 @@
       "type": "image/png"
     }
   ],
-  "splash_pages": "null"
+  "splash_pages": "null",
+  "screenshots": []
 }
