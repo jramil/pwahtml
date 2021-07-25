@@ -41,3 +41,15 @@
   "splash_pages": "null",
   "screenshots": []
 }
+
+{
+  "name": "FuturaNetWorks",
+  "short_name": "FNW",
+  "theme_color": "#3315dd",
+  "background_color": "#b80738",
+  "display": "standalone",
+  "Scope": "/index.html",
+  "start_url": "/",
+  "splash_pages": "null",
+  "screenshots": []
+}
